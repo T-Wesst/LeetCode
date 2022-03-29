@@ -1,0 +1,1 @@
+const sumArray = arr =>  arr.reduce((prev, next) => prev + next);
